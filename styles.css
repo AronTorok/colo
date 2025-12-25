@@ -1,0 +1,59 @@
+body {
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 1.21rem;
+  background-color: #272202;
+  color: #dadcd1;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Cinzel", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.white-ish {
+  color: #dadcd1;
+}
+
+.I {
+  min-height: 90vh;
+  background-image: url("I.png");
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.II {
+  min-height: 90vh;
+  background-image: url("II.png");
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.III {
+  min-height: 90vh;
+  background-image: url("III.png");
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.IV {
+  min-height: 90vh;
+  background-image: url("IV.png");
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.bg-green {
+  background-color: rgba(39, 34, 2, 0.8);
+}
